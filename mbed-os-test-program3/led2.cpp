@@ -1,7 +1,7 @@
 #include "mbed.h"
 
 
-void Led(DigitalOut& ledpin)
+void Led2(DigitalOut& ledpin)
 
 {
 

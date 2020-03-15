@@ -7,7 +7,7 @@ DigitalOut greenLED(LED_GREEN);
 
 
 int Led(DigitalOut& ledpin);
-
+int Led2(DigitalOut& ledpin);
 
 int main()
 
